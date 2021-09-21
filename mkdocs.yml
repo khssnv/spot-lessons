@@ -1,0 +1,11 @@
+site_name: Spot SDK Education
+site_url: https://spot-lessons.merklebot.khassanov.xyz/
+nav:
+  - "Home": index.md
+  - "Lesson 0: Connection": spot-lesson0.md
+  - "Lesson 1: Robot Services": spot-lesson1.md
+  - "Lesson 2: Robot Command Service": spot-lesson2.md
+  - "Lesson 3: World Objects": spot-lesson3.md
+  - "Lesson 4: GraphNav Service": spot-lesson4.md
+  - "Lesson 5: Spot service and maintenance": spot-lesson5.md
+theme: readthedocs

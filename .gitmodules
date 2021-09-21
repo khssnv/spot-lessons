@@ -1,0 +1,3 @@
+[submodule "external/robonomics-wiki"]
+	path = external/robonomics-wiki
+	url = https://github.com/LoSk-p/robonomics-wiki.git
